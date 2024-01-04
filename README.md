@@ -25,4 +25,4 @@ Uma pessoa muito sociável e fácil de lidar
 ![LzGuimaraes Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LzGuimaraes&hide_progress=true)
 <hr>
 
-Quem tem luz própria ja mais ficará na escuridão
+Quem tem luz própria jamais ficará na escuridão
