@@ -7,7 +7,7 @@ Uma pessoa muito sociavel e facil de lidar
 
 ## Contatos
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1704385220)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([wa.link/5y6pir](https://wa.me/5565998153854))
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5565998153854)
 
 ### Tecnologias do meu dia:
 <div>
