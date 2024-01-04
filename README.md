@@ -2,6 +2,7 @@
 
 ### Sobre mim 
 Desenvolvedor Full-Stack
+<br/>
 Uma pessoa muito sociavel e facil de lidar
 
 ## Contatos
