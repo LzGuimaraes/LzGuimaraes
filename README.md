@@ -1,4 +1,4 @@
-### Olá eu sou o Luiz 🙂
+### Olá, eu sou o Luiz 🙂
 
 ### Sobre mim 
 Desenvolvedor Full-Stack
