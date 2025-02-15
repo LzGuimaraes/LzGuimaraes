@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center";>
 
 # Hi, I'm Luiz 🙂  
 ---
@@ -7,7 +7,7 @@
 💬 A very sociable and easy-going person  
 🌍 Native Portuguese speaker | Intermediate English
 
-![Typing](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=02F707FD&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer)
+![Typing](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=0000000&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer)
 
 ---
 🌐 **FrontEnd Technologies**
@@ -51,6 +51,6 @@ If you want to chat or collaborate on a project, feel free to reach out!
 
 ---
 
-✨ **"Those who have their own light will never be in the dark."**  
+![Typing](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=0000000&center=true&vCenter=true&random=false&width=435&lines=+Tecnology+Moves+The+World)
 
 </div>
