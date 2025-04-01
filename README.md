@@ -45,7 +45,8 @@
 If you want to chat or collaborate on a project, feel free to reach out!  
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fernando-dos-santos-guimar%C3%A3es-11996b273/)    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizsantosleventi19901@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=briefcase&logoColor=white)](www.luizguimaraesdev.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fernando-dos-santos-guimar%C3%A3es-11996b273/)    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizsantosleventi19901@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=briefcase&logoColor=white)](https://www.luizguimaraesdev.com.br/)
+
 
 
 
