@@ -7,7 +7,7 @@
 💬 A very sociable and easy-going person  
 🌍 Native Portuguese speaker | Intermediate English
 
-![Typing](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=0000000&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer)
+![Typing](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer)
 
 ---
 🌐 **FrontEnd Technologies**
@@ -52,6 +52,6 @@ If you want to chat or collaborate on a project, feel free to reach out!
 
 ---
 
-![Typing](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=0000000&center=true&vCenter=true&random=false&width=435&lines=+Tecnology+Moves+The+World)
+![Typing](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=+Tecnology+Moves+The+World)
 
 </div>
