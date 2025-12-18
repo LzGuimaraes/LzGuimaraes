@@ -6,8 +6,8 @@
 
 # Hi, I'm Luiz 👋
 
-🚀 **Full Stack Developer (Backend-focused)**
-☁️ **Java | Spring Boot | AWS | DevOps | Python**
+🚀 **Full Stack Developer (Backend-focused)**  
+☁️ **Java | Spring Boot | AWS | DevOps | Python | Node.js**  
 🌍 Native Portuguese | Intermediate English
 
 ![Typing](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&weight=600\&size=28\&duration=3000\&pause=1000\&color=00FF00\&center=true\&vCenter=true\&random=false\&width=520\&lines=Backend-first+Full+Stack;Cloud-ready+applications;Scalable+and+clean+code)
