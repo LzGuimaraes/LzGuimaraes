@@ -1,7 +1,7 @@
-<div align="center">
 <p align="center">
   <a href="README.md">🌎 English</a> | 🇧🇷 Português
 </p>
+<div align="center">
 
 # Olá, eu sou o Luiz 👋
 
