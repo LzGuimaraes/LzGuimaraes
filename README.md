@@ -1,8 +1,8 @@
-<div align="center">
 <p align="center">
   🌎 English | <a href="README.pt-BR.md">🇧🇷 Português</a>
 </p>
 
+<div align="center">
 
 # Hi, I'm Luiz 👋
 
